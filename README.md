@@ -1,6 +1,6 @@
 # boredapp
 
-This is a vue js example using axis and connected with https://www.boredapi.com/
+This is a vue js example using axis and connected with https://www.boredapi.com/ an exampled over heroku is https://boredapp-jacinto.herokuapp.com/
 
 ## Libraries
 
