@@ -35,9 +35,7 @@ export default new Vuex.Store({
       state.activities = Array()
     },
     REMOVE_ACTIVITY (state, { activity }) {
-      console.log(state.activities)
       state.activities = state.activities.filter(item => item.activity != activity)
-      console.log(state.activities)
     },
   },
   actions: {

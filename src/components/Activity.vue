@@ -78,7 +78,6 @@ import Vue from 'vue';
 
 export default Vue.extend({
   data () {
-  console.log(this.$store.state.activity)
     return {
       types: [
         "education",

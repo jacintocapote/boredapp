@@ -48,7 +48,6 @@ export default Vue.extend({
   },
   computed: {
     activities() {
-      console.log(this.$store.state.activities)
       return this.$store.state.activities
     }
   },
