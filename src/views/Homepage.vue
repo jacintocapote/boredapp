@@ -54,6 +54,7 @@ export default Vue.extend({
       items: [
         'Activities', 'My list',
       ]
+    }
   },
 });
 </script>
